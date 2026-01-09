@@ -37,7 +37,7 @@ Currently, I’m working on a **Startup Discovery & Funding Portal** that aims t
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](./Manish_Patil_Frontend_Developer_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](./MANISH_PATIL_RESUME.pdf)
 
 
 --
