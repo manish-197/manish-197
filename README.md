@@ -52,18 +52,10 @@ A web platform to explore startups, understand funding stages, and connect ideas
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishPatil\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatil\&layout=compact\&theme=radical)
-
----
-
 ## 🔗 Connect With Me
 
-* 💼 GitHub: [https://github.com/ManishPatil](https://github.com/ManishPatil)
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 GitHub: [https://github.com/ManishPatil](https://github.com/manish-197)
+* 📧 Email: [your-email@example.com](mailto:manishpatil0738@gmail.com)
 * 📍 Location: Maharashtra, India
 
 ---
