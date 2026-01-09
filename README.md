@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Manish Patil
 
-<!--
-**manish-197/manish-197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer (React.js) | Startup Discovery & Funding Portal Builder
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m a motivated **BCA graduate** and aspiring **Frontend Developer** with a strong focus on **React.js, JavaScript, and modern UI development**. I enjoy building clean, responsive, and scalable web applications with real-world use cases.
+
+Currently, I’m working on a **Startup Discovery & Funding Portal** that aims to make startup exploration, funding insights, and investor connections **simple, transparent, and accessible**.
+
+* 🌱 Currently learning: Advanced React, Context API, performance optimization
+* 💡 Interested in: UI/UX, SaaS products, startup ecosystems
+* 🎯 Goal: Become a professional frontend developer and work on impactful products
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+
+* HTML5
+* CSS3 / Tailwind CSS
+* JavaScript (ES6+)
+* React.js
+* React Router
+
+### ⚙️ Tools & Platforms
+
+* Git & GitHub
+* Vite
+* VS Code
+* Figma (basic)
+
+---
+
+## 🚀 Projects
+
+### 🔹 Startup Discovery & Funding Portal
+
+A web platform to explore startups, understand funding stages, and connect ideas with opportunities.
+
+**Features:**
+
+* Startup listings & discovery
+* Clean UI with responsive design
+* Component-based React architecture
+* Modern styling with Tailwind & CSS variables
+
+**Tech Used:** React.js, CSS, JavaScript
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishPatil\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPatil\&layout=compact\&theme=radical)
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 GitHub: [https://github.com/ManishPatil](https://github.com/ManishPatil)
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📍 Location: Maharashtra, India
+
+---
+
+⭐ *“Learning every day, building every week.”*
